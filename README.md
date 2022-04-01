@@ -16,21 +16,21 @@ Working through this project was valuable because it drove home the point of nee
 
 ### Pseudocode
 
-i) When a user selects the 'Generate Password' button, they are prompted to enter the desired length of their password, between value 8 and 128.
-    i) if the entered value is outside the acceptable range, the user will be shown an alert message and no password will be generated
-    ii) if the entered value is within the acceptable range, this value should be saved for later use
-ii) The user is asked to confirm if they want to include: 
-    i) lowercase letters
-    ii) upperacse letter
-    iii) numbers
-    iv) special characters
-iii) If the user selected any of those parameters, the corresponding characters are combined to form a single list
-iv) Randomly select characters from the list and assign them to the new password, continuing until the length is equal to the user submission.
-v) report the final output.
+1. When a user selects the 'Generate Password' button, they are prompted to enter the desired length of their password, between value 8 and 128.
+    - if the entered value is outside the acceptable range, the user will be shown an alert message and no password will be generated
+    - if the entered value is within the acceptable range, this value should be saved for later use
+2. The user is asked to confirm if they want to include: 
+    - lowercase letters
+    - upperacse letter
+    - numbers
+    - special characters
+3. If the user selected any of those parameters, the corresponding characters are combined to form a single list
+4. Randomly select characters from the list and assign them to the new password, continuing until the length is equal to the user submission.
+5. report the final output.
 
 #### Usage
 
-Click <a href="https://jkwalsh127.github.io/site-refactor/">**here**</a> to check out the deployed generator!
+Click <a href="https://jkwalsh127.github.io/random-password-generator/">**here**</a> to check out the deployed generator!
 
 
 #### Credits

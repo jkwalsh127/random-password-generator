@@ -111,6 +111,7 @@ function generatePassword() {
         alert("You did not select any groups of characters and so the password is empty. Try again and select at least one group.")
         return "";
     } else {
+    console.log(password)
     return password;
     }
 }

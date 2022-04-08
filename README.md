@@ -29,6 +29,10 @@ Working through this project was valuable because it drove home the point of nee
 4. Characters from the desired list are choosen at random and assigned to the new password, continuing adding one chaaracter at a time until the length is equal to the user submission
 5. report the final output to the user as their new password
 
+### App demonstration
+
+![gif demonstration of the password generator](./assets/images/random-password-generator-readme-gif.gif)
+
 #### Usage
 
 Click <a href="https://jkwalsh127.github.io/random-password-generator/">**here**</a> to check out the deployed generator!
